@@ -113,7 +113,6 @@ Example command:
 - Twitter: [@thasipablo](https://twitter.com/thasipablo_)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/thasipablo)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -123,7 +122,6 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
@@ -131,10 +129,10 @@ Feel free to check the [issues page](../../issues/).
 
 If you like this project fork it and a PR or invite me to discus about it
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank all microverse staff team, my code partners, and all reviewers
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
