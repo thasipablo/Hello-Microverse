@@ -95,8 +95,6 @@ Clone this repository to your desired folder:
 
 To run tests, run the following command:
 
-Example command:
-
 ```sh
   npx stylelint "**/*.{css,scss}"
 ```
